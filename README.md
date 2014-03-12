@@ -1,6 +1,7 @@
 asterisk_1_8 Cookbook
 =====================
 Recipe for install asterisk1.8 to CentOS
+VagrantのCentOS環境にAsterisk1.8のインストールを行う。
 
 PreRequirement
 -----

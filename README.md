@@ -3,7 +3,7 @@ asterisk_1_8 Cookbook
 Recipe for install asterisk1.8 to CentOS
 
 PreRequirement
-=========================
+-----
 $ vagrant box add base64 CentOS-6.3-x86_64-v20130101.box
 
 Usage
